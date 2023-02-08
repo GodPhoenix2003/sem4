@@ -130,4 +130,4 @@ int main()
 // it divides the search area in half with each iteration, reducing
 // the amount of elements that need to be searched through.This
 // results in a faster search time, especially as the size of
-// the search area increases.
+// the search area decreases.
